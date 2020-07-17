@@ -21,20 +21,24 @@ A letter is a character in the set [a-zA-Z]
 
 Example 00:
 
-> Input: "After all this time Always said Snape"\n
-> Output: "all^said this time^After Snape^Always"\n
+> Input: "After all this time Always said Snape"
+
+> Output: "all^said this time^After Snape^Always"
 
 Example 01:
 
 > Input: "A a b B cc ca cd"
+
 > Output: "A a b B^ca cc cd"
 
 Example 02:
 
-> Input "Never take a gamble you are not prepared to lose"\n
-> Output: "a^to^are not you^lose take^Never^gamble^prepared"\n
+> Input "Never take a gamble you are not prepared to lose"
+
+> Output: "a^to^are not you^lose take^Never^gamble^prepared"
 
 Example 03:
 
-> Input ""\n
-> Output: ""\n
+> Input ""
+
+> Output: ""
