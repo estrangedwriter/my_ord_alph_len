@@ -21,8 +21,8 @@ A letter is a character in the set [a-zA-Z]
 
 Example 00:
 
-> Input: "After all this time Always said Snape"
-> Output: "all^said this time^After Snape^Always"
+> Input: "After all this time Always said Snape"\n
+> Output: "all^said this time^After Snape^Always"\n
 
 Example 01:
 
@@ -31,10 +31,10 @@ Example 01:
 
 Example 02:
 
-> Input "Never take a gamble you are not prepared to lose"
-> Output: "a^to^are not you^lose take^Never^gamble^prepared"
+> Input "Never take a gamble you are not prepared to lose"\n
+> Output: "a^to^are not you^lose take^Never^gamble^prepared"\n
 
 Example 03:
 
-Input ""
-Output: ""
+> Input ""\n
+> Output: ""\n
