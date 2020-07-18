@@ -1,5 +1,7 @@
-# ridiculous-leetcode-question
-
+# my_ord_alph_len
+#### sorting 2d arrays by length and alphabetically
+#### inserting characters into a string
+#### working with pointers, strings, and some memory allocation
 
 ### Ord Alphlong
 Write a function that takes a string as a parameter and returns its words sorted
