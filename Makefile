@@ -1,6 +1,6 @@
 ## QWASAR PROJECT, 2020
-## my_ls
-## File description: This C make file can help to build the my_ls program/executable.
+## my_ord_alph_len
+## File description: This C make file can help to build the my_ord_alph_len program/executable.
 
 ## Setting the compiler
 CC = gcc
